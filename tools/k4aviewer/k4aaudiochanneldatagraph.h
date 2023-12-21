@@ -7,6 +7,7 @@
 // System headers
 //
 #include <array>
+#include <string>
 
 // Library headers
 //

@@ -10,6 +10,7 @@
 #include <array>
 #include <chrono>
 #include <map>
+#include <string>
 #include <mutex>
 #include <numeric>
 #include <ratio>
